@@ -1,8 +1,8 @@
 #### System information
 
-AKASHA version: ' '
+AKASHA version: ` `
 
-Operating System: ' '
+Operating System: ` `
 
 #### Expected behaviour
 
