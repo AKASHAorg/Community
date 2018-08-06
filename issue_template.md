@@ -1,8 +1,8 @@
 #### System information
 
 AKASHA version: ` `
-
 Operating System: ` `
+Web Browser (if applicable): ` `
 
 #### Expected behaviour
 
