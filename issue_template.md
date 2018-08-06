@@ -11,3 +11,6 @@ Web Browser (if applicable): ` `
 
 
 #### Steps to reproduce the problem
+
+
+**Please, add screenshots!**
